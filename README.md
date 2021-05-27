@@ -1,4 +1,4 @@
-# uniswap-info-redirects
+# liteswap-info-redirects
 
 This repo contains the Vercel configurations that handle redirects for the [uniswap.info](https://uniswap.info) domain.
 
